@@ -317,7 +317,7 @@
           -moz-transition: all 500ms ease;
           -ms-transition: all 500ms ease;
           -o-transition: all 500ms ease;
-          transition: all 500ms ease;
+           transition: all 500ms ease;
         }
         /* bussiness descrioption style */
         .bussiness_description
